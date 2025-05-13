@@ -1,5 +1,5 @@
 import React from 'react'
-import { host } from '../utils/APIRoutes'
+// import { host } from '../utils/APIRoutes'
 import axios from 'axios'
 
 function Forgotpass() {
